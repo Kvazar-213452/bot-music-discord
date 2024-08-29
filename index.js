@@ -255,4 +255,4 @@ function removeMusicFromJson(guildId, videoNameToRemove) {
 }
 
 
-client.login('MTE4MzA3NjU4MDQ4NzA3Mzg0Mw.GHK0Hd.sITpYL6hrKHosL6txc8_tIMAXo2LvCeRSzPQdI');
+client.login('');
